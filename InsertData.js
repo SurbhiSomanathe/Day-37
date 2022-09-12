@@ -208,7 +208,7 @@ db.users.insertMany([
     {
       userid: 5,
       topicid: 5,
-      attended: false,
+      attended: true,
     },
     {
       userid: 6,
@@ -218,7 +218,7 @@ db.users.insertMany([
     {
       userid: 7,
       topicid: 7,
-      attended: false,
+      attended: true,
     },
   ]);
   
@@ -229,37 +229,37 @@ db.users.insertMany([
     {
       mentorid: 1,
       mentorname: "Sai Mohan",
-      mentor_email: "anuja@gmail.com",
+      mentor_email: "saimohan@gmail.com",
     },
     {
       mentorid: 2,
       mentorname: "Sai Mohan",
-      mentor_email: "arul@gmail.com",
+      mentor_email: "saimohan@gmail.com",
     },
     {
       mentorid: 3,
       mentorname: "Sai Mohan",
-      mentor_email: "revathi@gmail.com",
+      mentor_email: "saimohan@gmail.com",
     },
     {
       mentorid: 4,
       mentorname: "Raghav kumar v",
-      mentor_email: "rudhra@gmail.com",
+      mentor_email: "raghavkumar@gmail.com",
     },
     {
       mentorid: 5,
       mentorname: "Jagan Mohan",
-      mentor_email: "booma@gmail.com",
+      mentor_email: "jaganmohan@gmail.com",
     },
     {
       mentorid: 4,
       mentorname: "Sai Mohan",
-      mentor_email: "rudhra@gmail.com",
+      mentor_email: "saimohan@gmail.com",
     },
     {
       mentorid: 4,
       mentorname: "Ragav kumar v",
-      mentor_email: "rudhra@gmail.com",
+      mentor_email: "saimohan@gmail.com",
     },
   ]);
   
